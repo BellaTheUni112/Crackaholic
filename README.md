@@ -1,5 +1,6 @@
 # Crackaholic
 A simple DRM-bypasser.
+
 This tool can only bypass SteamDRM (Steamworks)
 
 # Prohibited uses
