@@ -33,6 +33,8 @@ xcopy "%~dp0crackfiles\*" "%x%" /E /H /I
     echo Cracked with Crackaholic
     echo Do not run "%exe%", run "steamclient_loader.exe" or it will refuse to run.
 ) > "%x%\README.txt"
-
+cd "%x%"
+"%homedir%Steamless.CLI.exe" %exe%
 echo Done.
+
 pause
