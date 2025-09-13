@@ -5,7 +5,7 @@ This tool can only bypass SteamDRM (Steamworks)
 
 # Prohibited uses
 
-This software is provided for lawful, research, and educational purposes only.
+This software is provided for archival, lawful, research, and educational purposes only.
 You must not use, adapt, distribute, or publish this software for any purpose
 that violates applicable law in your jurisdiction, including (but not limited to)
 the unauthorized circumvention of technological protection measures (DRM),
