@@ -6,6 +6,9 @@ Meant to bypass SteamDRM (Steamworks) and remove SteamStub to archive games by m
 
 This tool can bypass SteamDRM (Steamworks) and can remove SteamStub
 
+Some games require steam.dll to be in it's directory, so I have provided it.
+If a game requires it, just copy and paste it into the game's directory.
+
 This tool may get detected as malware, but this is a false positive.
 I did not code this maliciously, it gets detected because the binaries have malware-like behaviour but are not malware.
 
