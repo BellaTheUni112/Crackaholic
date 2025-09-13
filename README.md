@@ -1,6 +1,6 @@
 # Crackaholic
 A simple DRM-bypasser.
-Bases on Goldberg
+Based on Goldberg
 
 Meant to bypass SteamDRM (Steamworks) to archive games by making them playable long after servers shut down.
 
