@@ -12,7 +12,7 @@ If a game requires it, just copy and paste it into the game's directory.
 This tool may get detected as malware, but this is a false positive.
 I did not code this maliciously, it gets detected because the binaries have malware-like behaviour but are not malware.
 
-# Prohibited uses
+# Legal notice
 
 This software is provided for archival, lawful, research, and educational purposes only.
 You must not use, adapt, distribute, or publish this software for any purpose
