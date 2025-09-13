@@ -1,6 +1,8 @@
 # Crackaholic
 A simple DRM-bypasser.
 
+Meant to bypass SteamDRM (Steamworks) to archive games by making them playable long after servers shut down.
+
 This tool can only bypass SteamDRM (Steamworks)
 
 # Prohibited uses
