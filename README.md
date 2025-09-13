@@ -2,7 +2,7 @@
 A simple DRM-bypasser.
 Based on Goldberg
 
-Meant to bypass SteamDRM (Steamworks) to archive games by making them playable long after servers shut down.
+Meant to bypass SteamDRM (Steamworks) and remove SteamStub to archive games by making them playable long after servers shut down.
 
 This tool can bypass SteamDRM (Steamworks) and can remove SteamStub
 
