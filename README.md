@@ -4,7 +4,7 @@ Based on Goldberg
 
 Meant to bypass SteamDRM (Steamworks) to archive games by making them playable long after servers shut down.
 
-This tool can only bypass SteamDRM (Steamworks)
+This tool can bypass SteamDRM (Steamworks) and can remove SteamStub
 
 This tool may get detected as malware, but this is a false positive.
 I did not code this maliciously, it gets detected because the binaries have malware-like behaviour but are not malware.
